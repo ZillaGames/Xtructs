@@ -1,12 +1,12 @@
 {
     "name": "com.zilla.xtructs",
     "displayName": "XTructs",
-    "author": { "name": "Zilla, Inc." },
+    "author": { "name": "Zilla, Inc.", "url": "guedesarthur.dev" },
     "version": "0.1",
     "unity": "2020.3",
-    "description": "Provides an efficient async/await integration to Unity.",
+    "description": "Collection of commonly used data structures.",
     "keywords": [ "generic", "collections", "graphs", "FSM", "trees" ],
-    "license": "None",
+    "license": "MIT",
     "category": "Utilities",
     "dependencies": {}
 }
