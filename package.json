@@ -1,7 +1,7 @@
 {
     "name": "com.zilla.xtructs",
     "displayName": "XTructs",
-    "author": { "name": "Zilla, Inc.", "url": "guedesarthur.dev" },
+    "author": { "name": "Zilla, Inc.", "email":"guedes.arthur96@gmail.com", "url": "guedesarthur.dev" },
     "version": "0.1",
     "unity": "2020.3",
     "description": "Collection of commonly used data structures.",
